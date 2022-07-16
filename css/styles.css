@@ -107,6 +107,17 @@ section {
     width: 70%;
 }
 
+@media only screen and (max-width: 450px){
+    .navbar__menu .menu__link {
+        font-size: 0.66em;
+    }
+
+    .menu__link::after {
+        left: 11;
+    }
+}
+
+
 /* Header Styles */
 .page__header {
     background: #fff;
