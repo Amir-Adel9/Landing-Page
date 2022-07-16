@@ -2,12 +2,10 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [Project Description](#ProjectDescription)
 
-## Instructions
+## Project Description
 
-Test
+This is my version of the Landing Page project from the EgyptFWD initiative Professional Web Development program.
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-Test Test.
+The project involves a webpage with various sections and a responsive navbar that is dynamically adjusted according to the number of sections in the page.
